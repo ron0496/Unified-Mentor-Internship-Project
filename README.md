@@ -7,6 +7,8 @@ Supply chain analytics is a valuable part of data-driven decision-making in vari
 
 ● Product Type ● SKU ● Price ● Availability ● Number of products sold ● Revenue generated ● Customer demographics ● Stock levels ● Lead times ● Order quantities ● Shipping times ● Shipping carriers ● Shipping costs ● Supplier name ● Location ● Lead time ● Production volumes ● Manufacturing lead time ● Manufacturing costs ● Inspection results ● Defect rates ● Transportation modes ● Routes ● Costs
 
+[Dashboard Link](https://public.tableau.com/views/supplychaindashboard_17285713065780/SupplyChainEfficiencyDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ### Supply Chain Efficiency Dasboard:
 
 <img width="1728" alt="Screenshot 2024-10-10 at 11 02 58 PM" src="https://github.com/user-attachments/assets/38c27a78-ec17-4aca-a2b0-2007140e4c2c">
@@ -43,7 +45,7 @@ Supply chain analytics is a valuable part of data-driven decision-making in vari
 
 ● According to data the unknown identity customers have generated over ₹170K Revenue followed by female customers which have generated ₹160K
 
-
+# Project 2: Iris Classification
 
 
 
