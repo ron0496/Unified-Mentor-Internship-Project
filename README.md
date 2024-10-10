@@ -9,7 +9,7 @@ Supply chain analytics is a valuable part of data-driven decision-making in vari
 
 ### Supply Chain Efficiency Dasboard:
 
-<img width="1728" alt="Screenshot 2024-10-10 at 10 18 27 PM" src="https://github.com/user-attachments/assets/abb097ec-44bf-4b04-94ef-b3b5dd021c7c">
+<img width="1728" alt="Screenshot 2024-10-10 at 11 02 58 PM" src="https://github.com/user-attachments/assets/38c27a78-ec17-4aca-a2b0-2007140e4c2c">
 
 ### Product Performance Dashboard
 
@@ -30,3 +30,25 @@ Supply chain analytics is a valuable part of data-driven decision-making in vari
 ● Which suppliers have the most efficient manufacturing processes based on Manufacturing lead time and Production volumes?
 
 ● What demographic group contributes the most to sales?
+
+### Conclusion:
+
+● The product type skin care generated over ₹240K revenue
+
+● After visualising scattered graph of lead times and order quantities result shows except for supplier 3, all of them have a positive correlation
+
+● We can see on horizontal bar graph carrier C have highest average shipping cost in Bangalore And carrier B have second high average shipping cost in Kolkata And in location Mumbai all three carriers have maintained average of ₹6
+
+● From above visual we can see the supply 5 have worst manufacturing process and All others supplier have maintained efficient manufacturing process
+
+● According to data the unknown identity customers have generated over ₹170K Revenue followed by female customers which have generated ₹160K
+
+
+
+
+
+
+
+
+
+
