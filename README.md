@@ -76,17 +76,17 @@ classic problem in machine learning and is often used as an introductory example
 
 The columns in this dataset are:
 
-Id
+* Id
 
-SepalLengthCm
+* SepalLengthCm
 
-SepalWidthCm
+* SepalWidthCm
 
-PetalLengthCm
+* PetalLengthCm
 
-PetalWidthCm
+* PetalWidthCm
 
-Species
+* Species
 
 #### Problem Statement:
 * The model should achieve a high level of accuracy in classifying iris species.
@@ -171,6 +171,7 @@ iris %>%
     summarize_if(is.numeric, mean)
 ```
 <img width="806" alt="Screenshot 2024-10-15 at 3 42 30 PM" src="https://github.com/user-attachments/assets/aa8eaa03-aa95-41de-8696-da40b5291696">
+
 
 Findings
 
