@@ -164,6 +164,19 @@ The above functions provide a way for skimming through the dataset
 
 `str()` - specifies the data type, variable names and the first few values
 
+This is a better and simpler way to summarize mean of each columns grouped by species.
+```{r}
+iris %>% 
+    group_by(Species)%>%
+    summarize_if(is.numeric, mean)
+```
+<img width="806" alt="Screenshot 2024-10-15 at 3 42 30 PM" src="https://github.com/user-attachments/assets/aa8eaa03-aa95-41de-8696-da40b5291696">
+
+Findings
+
+* Setosa species has the smallest petal length and petal width. Versicolor species has average petal length and petal width. Virginica species has the highest petal length and petal width.
+* Versicolor species has the smallest sepal width. Virginica species came in second and setosa species has the largest sepal width.
+* Virginica species has the longest sepal length, versicolor has the second longest sepal length and setosa species has the shortest sepal length.
 Let's try and understand this dataset through a few visualizations. Before that we will edit the data a bit.
 
 ```{r}
