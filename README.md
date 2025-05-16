@@ -373,7 +373,7 @@ confusionMatrix(predictions, test$Species)
 ### Conclusion:
 In this project, we successfully applied various machine learning algorithms to classify iris species, with Linear Discriminant Analysis (LDA) emerging as the most accurate model. Through comprehensive data visualization and statistical analysis, we observed significant differences between species, contributing to the model’s accuracy. With a final prediction accuracy of over 96%, the project demonstrates the effectiveness of classification techniques in solving this classic machine learning problem.
 
-
+[Certificate Link](https://github.com/ron0496/Unified-Mentor-Internship-Project/blob/main/certificate.pdf)
 
 
 
